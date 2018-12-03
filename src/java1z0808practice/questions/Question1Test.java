@@ -1,7 +1,7 @@
 package java1z0808practice.questions;
 
 class Message {
-    String msg = "Happy New Year!";
+    String msg = "Happy New Year!!!";
 
     public void print() {
         System.out.println(msg);
