@@ -68,7 +68,7 @@ public class Codify {
                 "game.exe 100b\n" +
                 "mov!e.mkv 10000b\n";
         Codify cod = new Codify();
-        System.out.println(cod.solution(s));
+        System.out.println("Final Output is " +cod.solution(s));
 
     }
 
